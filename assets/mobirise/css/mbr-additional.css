@@ -1031,8 +1031,8 @@ a {
   }
 }
 .cid-tT7Lb6Q9pq {
-  padding-top: 6rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-tT7Lb6Q9pq .content-wrapper {
@@ -1069,9 +1069,19 @@ a {
 .cid-tT7Lb6Q9pq .mbr-section-btn {
   text-align: left;
 }
-.cid-tT7YpMRYMJ {
-  padding-top: 4rem;
+.cid-tZm2RyNtw8 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tZm266QBc7 {
+  padding-top: 1rem;
   padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+.cid-tT7YpMRYMJ {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 @media (min-width: 1500px) {
@@ -1097,6 +1107,9 @@ a {
 .cid-tT7YpMRYMJ .card-title,
 .cid-tT7YpMRYMJ .iconfont-wrapper {
   text-align: left;
+}
+.cid-tT7YpMRYMJ .mbr-section-title {
+  text-align: center;
 }
 .cid-tT8aw7pUCs {
   padding-top: 6rem;
@@ -1598,35 +1611,39 @@ a {
     left: -1rem;
   }
 }
-.cid-tT8KKCeAoe {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+.cid-tZmfFwUxeG {
+  padding-top: 2rem;
+  padding-bottom: 5rem;
   background-color: #ffffff;
 }
-@media (max-width: 767px) {
-  .cid-tT8KKCeAoe .card-box {
-    padding: 1rem;
-  }
+.cid-tZmfFwUxeG .oldcost {
+  text-decoration: line-through;
+  color: #353535;
 }
-@media (min-width: 768px) {
-  .cid-tT8KKCeAoe .card-box {
-    padding-right: 2rem;
-  }
+.cid-tZmfFwUxeG .currentcost {
+  color: #232323;
+}
+.cid-tZmfFwUxeG .card-wrapper {
+  border-radius: 4px;
+  background: #ffffff;
 }
 @media (min-width: 992px) {
-  .cid-tT8KKCeAoe .card-box {
-    padding-left: 2rem;
+  .cid-tZmfFwUxeG .text-box {
+    padding: 2rem;
     padding-right: 4rem;
   }
 }
-.cid-tT8KKCeAoe .card-wrapper {
-  border-radius: 4px;
-  background-color: #ffffff;
+@media (max-width: 991px) {
+  .cid-tZmfFwUxeG .text-box {
+    padding: 2rem;
+  }
 }
-.cid-tT8KKCeAoe .image-wrapper img {
+@media (max-width: 767px) {
+  .cid-tZmfFwUxeG .text-box {
+    padding: 1rem;
+  }
+}
+.cid-tZmfFwUxeG .image-wrapper img {
   width: 100%;
   object-fit: cover;
-}
-.cid-tT8KKCeAoe .card:not(:nth-last-child(1)) {
-  margin-bottom: 2rem;
 }
