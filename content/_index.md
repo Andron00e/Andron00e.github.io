@@ -19,7 +19,7 @@ sections:
   #    username: admin
   #  design:
   #    columns: '1'
-   - block: experience
+  - block: experience
     content:
       title: Education
       # Date format for experience
@@ -70,13 +70,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Department of Mathematical Fundamentals of Control, MIPT 
-           company: Teaching assistant
-           company_url: ''
-           company_logo: mipt-icon
-           location: Moscow, Dolgoprudny, Russia
-           date_start: '2023-01-01'
-           date_end: ''
-           description: |2-
+          company: Teaching assistant
+          company_url: ''
+          company_logo: mipt-icon
+          location: Moscow, Dolgoprudny, Russia
+          date_start: '2023-01-01'
+          date_end: ''
+          description: |2-
               *  Reinforcement Learning [course](https://github.com/Andron00e/rl.mipt). Lecturer: [Yudin Nikita](https://labmmo.ru/en/team/yudin.html).
               * Owner of the course [repository](https://github.com/Andron00e/rl.mipt).
         - title: Huawei-MIPT research group
@@ -116,12 +116,12 @@ sections:
           description: |2-
               Head: D.Sc. [Nokhrina Elena](https://www.webofscience.com/wos/author/record/C-8240-2014).
         - tite: P.N.Lebedev Physical Institute
-           company: Research physicist
-           company_url: ''
-           company_logo: phian-icon
-           location: Moscow, Russia
-           date_start: '2022-11-12'
-           date_end: '2023-07-27'
+          company: Research physicist
+          company_url: ''
+          company_logo: phian-icon
+          location: Moscow, Russia
+          date_start: '2022-11-12'
+          date_end: '2023-07-27'
     design:
       columns: '1' #'2'
  # - block: accomplishments
