@@ -50,11 +50,11 @@ sections:
           date_start: '2016-09-01'
           date_end: '2020-08-01'
           description: |2-
-              * International Olympiads prize-winner
-              * National Olympiads prize-winner
-              * "[All-Ukrainian mathematical fights](https://matholymp.com.ua/)" tournament contestant
-              * "[Young physicists tournament](https://www.iypt.org/)" team member
-              * First "[Astronomy Battles](https://www.astrosandbox.com/mainenglish)" tournament team member
+              * International Olympiads prize-winner.
+              * National Olympiads prize-winner.
+              * "[All-Ukrainian mathematical fights](https://matholymp.com.ua/)" tournament contestant.
+              * "[Young physicists tournament](https://www.iypt.org/)" team member.
+              * First "[Astronomy Battles](https://www.astrosandbox.com/mainenglish)" tournament team member.
     design:
       columns: '1'
   - block: experience
@@ -87,7 +87,7 @@ sections:
           date_start: '2023-11-01'
           date_end: ''
           description: |2-
-              Head: [Roland Hildebrand](https://scholar.google.fr/citations?user=uTYg6lsAAAAJ&hl=fr)
+              Head: [Roland Hildebrand](https://scholar.google.fr/citations?user=uTYg6lsAAAAJ&hl=fr).
         - title: MIPT-Yandex Fundamental Research Laboratory
           company: Research student
           company_url: 'https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/'
