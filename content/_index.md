@@ -100,7 +100,7 @@ sections:
         - title: Laboratory of Mathematical Methods of Optimization
           company: Research Student
           company_url: 'https://labmmo.ru/en'
-          company_logo: llabmmo-icon
+          company_logo: labmmo-icon
           location: Moscow, Dolgoprudny, Russia
           date_start: '2023-07-27'
           date_end: ''
