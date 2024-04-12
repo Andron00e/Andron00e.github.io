@@ -1,4 +1,5 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+Website
+<!--- # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
 [![Screenshot](./preview.png)](https://hugoblox.com/templates/)
 
@@ -41,6 +42,7 @@ We're an open source movement that depends on your support to stay online and th
 ## Latest news
 
 <!--START_SECTION:news-->
+<!--- 
 * [6 Compelling Reasons I Switched from WordPress to Hugo](https:&#x2F;&#x2F;hugoblox.com&#x2F;vs&#x2F;wordpress&#x2F;)
 * [The 7 best landing page builders in 2024](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;7-best-landing-page-builders&#x2F;)
 * [Start a Blog and Make Money in 2024: Here&#39;s What You Need to Know](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;start-a-blog-and-make-money&#x2F;)
