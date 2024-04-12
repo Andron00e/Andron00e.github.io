@@ -9,9 +9,9 @@ title: Andrii Semenov
 first_name: Andrii
 last_name: Semenov
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,8 +25,7 @@ organizations:
     url: https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fourth year student at [Moscow Institute of Physics and Technology](https://old.mipt.ru/english/), Landau Phystech School of Physics and Research. I work under the supervision of PhD [Aleksandr Beznosikov](https://anbeznosikov.github.io/). My research interests include Natural Language Processing, Computer Vision and Stochastic Optimization, which I work on in MIPT-Yandex Fundamental research [team](https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/).
-During my school years, I participated in several International Olympiads in [astronomy](http://www.issp.ac.ru/iao/2018/), [physics and astrophysics](https://www.ioaastrophysics.org/).
+bio: My research interests include Natural Language Processing, Computer Vision and Stochastic Optimization.
 
 # Interests to show in About widget
 #interests:
