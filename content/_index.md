@@ -90,7 +90,7 @@ sections:
               Head: [Roland Hildebrand](https://scholar.google.fr/citations?user=uTYg6lsAAAAJ&hl=fr)
         - title: MIPT-Yandex Fundamental Research Laboratory
           company: Research student
-          company_url: ''
+          company_url: 'https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/'
           company_logo: mipt-icon
           location: Moscow, Russia
           date_start: '2023-07-27'
