@@ -45,7 +45,7 @@ sections:
         - title: Ukrainian Physics and Mathematics Lyceum 
           company: Boarding school with the advanced study of Mathematics, Computer Science and Physics.
           company_url: 'http://upml.knu.ua/'
-          company_logo: org-x
+          company_logo: upml-icon
           location: Kyiv, Ukraine
           date_start: '2016-09-01'
           date_end: '2020-08-01'
@@ -71,7 +71,7 @@ sections:
       items:
         - title: Department of Mathematical Fundamentals of Control, MIPT 
           company: Teaching assistant
-          company_url: ''
+          company_url: 'https://old.mipt.ru/education/chairs/math_basic_management/'
           company_logo: mipt-icon
           location: Moscow, Dolgoprudny, Russia
           date_start: '2023-01-01'
@@ -193,33 +193,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '1' #'2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
- #     default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-#      buttons:
-#        - name: All
-#          tag: '*'
-#        - name: Deep Learning
-#          tag: Deep Learning
-#        - name: Other
-#          tag: Demo
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
 #  - block: markdown
 #    content:
 #      title: Gallery
@@ -240,6 +213,7 @@ sections:
 #      columns: '2'
 #      view: card
   - block: collection
+    id: publications
     content:
       title: Recent Papers
       text: |-
@@ -261,7 +235,7 @@ sections:
 #        folders:
 #          - event
 #    design:
-#      columns: '2'
+#      columns: '1' #'2'
 #      view: compact
 #  - block: tag_cloud
 #    content:
@@ -319,4 +293,31 @@ sections:
 #          captcha: false
 #    design:
 #      columns: '2'
+  - block: portfolio
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+ #     default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+#      buttons:
+#        - name: All
+#          tag: '*'
+#        - name: Deep Learning
+#          tag: Deep Learning
+#        - name: Other
+#          tag: Demo
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
 ---

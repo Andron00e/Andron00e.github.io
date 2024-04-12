@@ -21,7 +21,7 @@ role: ML Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: MIPT-Yandex.Research
+  - name: MIPT-Yandex Fundamental Research lab
     url: https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/
 
 # Short bio (displayed in user profile at end of posts)
@@ -124,7 +124,7 @@ highlight_name: true
 ---
 
 I am a fourth year student at [Moscow Institute of Physics and Technology](https://old.mipt.ru/english/), Landau Phystech School of Physics and Research. I work under the supervision of PhD [Aleksandr Beznosikov](https://anbeznosikov.github.io/). My research interests include Natural Language Processing, Computer Vision and Stochastic Optimization, which I work on in MIPT-Yandex Fundamental research [team](https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/).
-During my school years, I participated in several International Olympiads in [astronomy](http://www.issp.ac.ru/iao/2018/), [physics and astrophysics](https://www.ioaastrophysics.org/).
+During my school years, I participated in several International Olympiads in [astronomy](http://www.issp.ac.ru/iao/2018/), [physics and astrophysics](https://www.ioaastrophysics.org/). I like interesting theorems, simple algorithms and meaningful applications..
 
-*Name*:  Besides "Andrii Semenov", I sometimes use another spelling "Andrei Semenov". Both are fine.  
+Name:  Besides "Andrii Semenov", I sometimes use another spelling "Andrei Semenov". Both are fine.  
 {style="text-align: justify;"}
