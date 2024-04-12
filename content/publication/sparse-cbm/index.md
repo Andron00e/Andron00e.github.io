@@ -2,9 +2,9 @@
 title: "Sparse Concept Bottleneck Models: Gumbel Tricks in Contrastive Learning"
 authors:
 - Andrei Semenov
-- [Vladimir Ivanov](https://scholar.google.com/citations?user=16AyxX0AAAAJ&hl=ru)
-- [Aleksandr Beznosikov](https://anbeznosikov.github.io/index.html)
-- [Alexander Gasnikov](https://scholar.google.com/citations?user=AmeE8qkAAAAJ&hl=ru)
+- Vladimir Ivanov
+- Aleksandr Beznosikov
+- Alexander Gasnikov
 date: "2024-04-04"
 doi: "https://doi.org/10.48550/arXiv.2404.03323"
 
