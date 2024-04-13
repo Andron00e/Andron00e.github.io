@@ -21,7 +21,7 @@ role: ML Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: MIPT-Yandex Fundamental Research lab
+  - name: MIPT-Yandex Fundamental Research Lab
     url: https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/
 
 # Short bio (displayed in user profile at end of posts)

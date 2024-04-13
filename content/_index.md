@@ -39,22 +39,22 @@ sections:
           date_start: '2020-09-01'
           date_end: ''
           description: |2-
-              * [Chair of Problems of Physics and Astrophysics](http://chair.lpi.ru/eng/index.html).
-              * [Affiliated with Yandex chair of Data Analysis](https://mipt.ru/education/chairs/da/).
-              * Advisor: [Aleksandr Beznosikov](https://anbeznosikov.github.io/index.html).
+              * [Chair of Problems of Physics and Astrophysics](http://chair.lpi.ru/eng/index.html)
+              * [Affiliated with Yandex chair of Data Analysis](https://mipt.ru/education/chairs/da/)
+              * Advisor: [Aleksandr Beznosikov](https://anbeznosikov.github.io/index.html)
         - title: Ukrainian Physics and Mathematics Lyceum 
-          company: Boarding school with the advanced study of Mathematics, Computer Science and Physics.
+          company: Boarding school with the advanced study of Mathematics, Computer Science and Physics
           company_url: 'http://upml.knu.ua/'
           company_logo: upml-icon
           location: Kyiv, Ukraine
           date_start: '2016-09-01'
           date_end: '2020-08-01'
           description: |2-
-              * International Olympiads prize-winner.
-              * National Olympiads prize-winner.
-              * "[All-Ukrainian mathematical fights](https://matholymp.com.ua/)" tournament contestant.
-              * "[Young physicists tournament](https://www.iypt.org/)" team member.
-              * First "[Astronomy Battles](https://www.astrosandbox.com/mainenglish)" tournament team member.
+              * International Olympiads prize-winner
+              * National Olympiads prize-winner
+              * "[All-Ukrainian mathematical fights](https://matholymp.com.ua/)" tournament contestant
+              * "[Young physicists tournament](https://www.iypt.org/)" team member
+              * First "[Astronomy Battles](https://www.astrosandbox.com/mainenglish)" tournament team member
     design:
       columns: '1'
   - block: experience
@@ -77,7 +77,7 @@ sections:
           date_start: '2023-01-01'
           date_end: ''
           description: |2-
-              *  Reinforcement Learning [course](https://github.com/Andron00e/rl.mipt). Lecturer: [Yudin Nikita](https://labmmo.ru/en/team/yudin.html).
+              *  Reinforcement Learning [course](https://github.com/Andron00e/rl.mipt). Lecturer: [Yudin Nikita](https://labmmo.ru/en/team/yudin.html)
         - title: Huawei-MIPT research group
           company: Deep Learning Engineer
           company_url: ''
@@ -86,7 +86,7 @@ sections:
           date_start: '2023-11-01'
           date_end: ''
           description: |2-
-              Head: [Roland Hildebrand](https://scholar.google.fr/citations?user=uTYg6lsAAAAJ&hl=fr).
+              Head: [Roland Hildebrand](https://scholar.google.fr/citations?user=uTYg6lsAAAAJ&hl=fr)
         - title: MIPT-Yandex Fundamental Research Laboratory
           company: Research student
           company_url: 'https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/'
@@ -95,7 +95,7 @@ sections:
           date_start: '2023-07-27'
           date_end: ''
           description: |2-
-              Head: [Aleksandr Beznosikov](https://anbeznosikov.github.io/index.html).
+              Head: [Aleksandr Beznosikov](https://anbeznosikov.github.io/index.html)
         - title: Laboratory of Mathematical Methods of Optimization
           company: Research student
           company_url: 'https://labmmo.ru/en'
@@ -104,7 +104,7 @@ sections:
           date_start: '2023-07-27'
           date_end: ''
           description: |2-
-              Head: [Alexander Gasnikov](https://scholar.google.com/citations?user=AmeE8qkAAAAJ).
+              Head: [Alexander Gasnikov](https://scholar.google.com/citations?user=AmeE8qkAAAAJ)
         - title: Laboratory of Fundamental and Applied Research of Relativistic Objects of the Universe
           company: Laboratory assistant
           company_url: 'https://rellab.mipt.ru/en/about'
@@ -113,7 +113,7 @@ sections:
           date_start: '2022-11-12'
           date_end: ''
           description: |2-
-              Head: D.Sc. [Nokhrina Elena](https://www.webofscience.com/wos/author/record/C-8240-2014).
+              Head: DSc [Nokhrina Elena](https://www.webofscience.com/wos/author/record/C-8240-2014)
         - title: P.N.Lebedev Physical Institute
           company: Research physicist
           company_url: 'http://old.lebedev.ru/en/'
