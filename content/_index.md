@@ -116,7 +116,7 @@ sections:
               Head: D.Sc. [Nokhrina Elena](https://www.webofscience.com/wos/author/record/C-8240-2014).
         - title: P.N.Lebedev Physical Institute
           company: Research physicist
-          company_url: ''
+          company_url: 'http://old.lebedev.ru/en/'
           company_logo: phian-icon
           location: Moscow, Russia
           date_start: '2022-11-12'
