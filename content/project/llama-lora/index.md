@@ -6,9 +6,9 @@ tags:
 date: '2023-07-20'
 
 links:
-  - icon: hugging-face
+  - icon: brands/hugging-face
     #icon_pack: fab
-    #name: Follow
+    name: HuggingFace
     url: https://huggingface.co/Andron00e/YetAnother_Open-Llama-3B-LoRA-OpenOrca
 url_code: 'https://github.com/Andron00e/Llama-LoRA-project'
 ---
