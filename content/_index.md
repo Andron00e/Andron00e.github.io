@@ -78,7 +78,6 @@ sections:
           date_end: ''
           description: |2-
               *  Reinforcement Learning [course](https://github.com/Andron00e/rl.mipt). Lecturer: [Yudin Nikita](https://labmmo.ru/en/team/yudin.html).
-              * Owner of the RL course [repository](https://github.com/Andron00e/rl.mipt).
         - title: Huawei-MIPT research group
           company: Deep Learning Engineer
           company_url: ''
@@ -115,7 +114,7 @@ sections:
           date_end: ''
           description: |2-
               Head: D.Sc. [Nokhrina Elena](https://www.webofscience.com/wos/author/record/C-8240-2014).
-        - tite: P.N.Lebedev Physical Institute
+        - title: P.N.Lebedev Physical Institute
           company: Research physicist
           company_url: ''
           company_logo: phian-icon
