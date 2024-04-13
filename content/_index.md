@@ -97,7 +97,7 @@ sections:
           description: |2-
               Head: [Aleksandr Beznosikov](https://anbeznosikov.github.io/index.html).
         - title: Laboratory of Mathematical Methods of Optimization
-          company: Research Student
+          company: Research student
           company_url: 'https://labmmo.ru/en'
           company_logo: labmmo-icon
           location: Moscow, Dolgoprudny, Russia
