@@ -1,15 +1,13 @@
 ---
 title: Llama-LoRa Project
-summary: My poject on parameter-efficient fine-tuning of LLMs.  More than 1000 downloads on HuggingFace.
+summary: My poject on parameter-efficient fine-tuning of LLMs.  More than 10000 downloads on HuggingFace.
 tags:
   - Deep Learning
 date: '2023-07-20'
 
 links:
-  - icon: brands/hugging-face
-    #icon_pack: fab
-    name: HuggingFace
-    url: https://huggingface.co/Andron00e/YetAnother_Open-Llama-3B-LoRA-OpenOrca
+- name: HuggingFace
+  url: https://huggingface.co/Andron00e/YetAnother_Open-Llama-3B-LoRA-OpenOrca
 url_code: 'https://github.com/Andron00e/Llama-LoRA-project'
 ---
 ### Quality evaluation and results
