@@ -78,7 +78,7 @@ sections:
           date_end: ''
           description: |2-
               *  Reinforcement Learning [course](https://github.com/Andron00e/rl.mipt). Lecturer: [Yudin Nikita](https://labmmo.ru/en/team/yudin.html).
-              * Owner of the course [repository](https://github.com/Andron00e/rl.mipt).
+              * Owner of the RL course [repository](https://github.com/Andron00e/rl.mipt).
         - title: Huawei-MIPT research group
           company: Deep Learning Engineer
           company_url: ''
