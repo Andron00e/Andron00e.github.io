@@ -20,6 +20,7 @@ sections:
   #  design:
   #    columns: '1'
   - block: experience
+    id: education #                           ADDED BY ME
     content:
       title: Education
       # Date format for experience
@@ -58,6 +59,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: experience # ADDED BY ME
     content:
       title: Work Experience
       # Date format for experience
@@ -225,7 +227,7 @@ sections:
         exclude_featured: true
     design:
       columns: '1' #'2'
-      view: citation
+      view: list #citation
   - block: collection
     id: talks
     content:
