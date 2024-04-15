@@ -270,15 +270,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    id: custom-block
-    content:
-      title: Papers
-      filters:
-        folders:
-          - mock  
-     design:
-      columns: '1' #'2'
 #  - block: contact
 #    id: contact
 #    content:
