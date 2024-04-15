@@ -123,7 +123,7 @@ social:
 highlight_name: true
 ---
 
-I am a fourth year student at [Moscow Institute of Physics and Technology](https://old.mipt.ru/english/), Landau Phystech School of Physics and Research. I work under the supervision of PhD [Aleksandr Beznosikov](https://anbeznosikov.github.io/). My research interests include Natural Language Processing, Computer Vision and Stochastic Optimization, which I work on in MIPT-Yandex Fundamental research [team](https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/).
+I am a fourth year student at [Moscow Institute of Physics and Technology](https://old.mipt.ru/english/), Landau Phystech School of Physics and Research. I work under the supervision of PhD [Aleksandr Beznosikov](https://anbeznosikov.github.io/). My research interests include Natural Language Processing, Computer Vision and Stochastic Optimization, which I work on in MIPT-Yandex Fundamental Research [team](https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/).
 During my school years, I participated in several International Olympiads in [astronomy](http://www.issp.ac.ru/iao/2018/), [physics and astrophysics](https://www.ioaastrophysics.org/).
 
 Name:  Besides "Andrii Semenov", I sometimes use another spelling "Andrei Semenov". Both are fine.  

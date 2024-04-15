@@ -111,7 +111,7 @@ sections:
           company_logo: rellab-icon
           location: Dolgoprudny, Russia
           date_start: '2022-11-12'
-          date_end: ''
+          date_end: '2024-04-27'
           description: |2-
               Head: DSc [Nokhrina Elena](https://www.webofscience.com/wos/author/record/C-8240-2014)
         - title: P.N.Lebedev Physical Institute
