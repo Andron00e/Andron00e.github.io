@@ -12,7 +12,8 @@ address:
   country: Russian Federation
 
 summary: 1.5 hour oral talk on Concept Bottleneck Models and Contrastive Learning in explainable AI.
-date: '2024-03-12'
+date: '2024-03-12T19:00:00Z'
+date_end: '2024-03-12T20:30:00Z'
 
 authors: []
 tags: []
