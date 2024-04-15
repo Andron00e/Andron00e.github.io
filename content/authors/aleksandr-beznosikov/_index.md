@@ -6,6 +6,7 @@ last_name: Beznosikov
 
 superuser: false
 
-url: https://anbeznosikov.github.io/index.html
+organizarions:
+    url: https://anbeznosikov.github.io/index.html
 highlight_name: false
 ---
