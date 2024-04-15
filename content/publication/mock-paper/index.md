@@ -5,7 +5,8 @@ title: 'Bregman Proximal Method for Efficient Communications under Similarity'
 #- Darina Dvinskikh
 #- Andrei Semenov
 #- Alexander Gasnikov
-description: |2-
+authors:
+- description: |2-
     [Aleksandr Beznosikov](https://anbeznosikov.github.io/index.html), [Darina Dvinskikh](https://scholar.google.com/citations?hl=ru&user=TsOXQ-8AAAAJ), Andrei Semenov, [Alexander Gasnikov](https://scholar.google.com/citations?user=AmeE8qkAAAAJ).
 date: '2023-11-12'
 doi: 'https://doi.org/10.48550/arXiv.2311.06953'
