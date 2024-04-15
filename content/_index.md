@@ -270,16 +270,24 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: contact
-    id: contact
+  - block: markdown
+    id: custom-block
     content:
-      title: Contact
+      title: Papers
+      filters:
+        folders:
+          - mock  
+     design:
+      columns: '1' #'2'
+#  - block: contact
+#    id: contact
+#    content:
+#      title: Contact
 #      subtitle:
 #      text: |-
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: semenov.andrei.v@gmail.com
-      email: semenov.a@phystech.edu
+#      email: semenov.andrei.v@gmail.com
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
 #      address:
@@ -320,6 +328,6 @@ sections:
 #        netlify:
           # Enable CAPTCHA challenge to reduce spam?
 #          captcha: false
-    design:
-      columns: '1' #'2'
+#    design:
+#      columns: '1' #'2'
 ---
