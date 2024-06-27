@@ -43,7 +43,7 @@ sections:
               * [Chair of Problems of Physics and Astrophysics](http://chair.lpi.ru/eng/index.html)
               * [Affiliated with Yandex chair of Data Analysis](https://mipt.ru/education/chairs/da/)
               * Advisor: [Aleksandr Beznosikov](https://anbeznosikov.github.io/index.html)
-              * Thesis (in Russian): [Contrastive Learning for Enhancement of Model Interpretability in Computer Vision](static/uploads/BSc_Thesis.pdf)
+              * Thesis (in Russian): [Contrastive Learning for Enhancement of Model Interpretability in Computer Vision](https://github.com/Andron00e/Andron00e.github.io/blob/main/static/uploads/BSc_Thesis.pdf)
         - title: Ukrainian Physics and Mathematics Lyceum 
           company: Boarding school with the advanced study of Mathematics, Computer Science and Physics
           company_url: 'http://upml.knu.ua/'
