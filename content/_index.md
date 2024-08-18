@@ -81,7 +81,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Department of Mathematical Fundamentals of Control, MIPT 
-          company: Teaching assistant
+          company: Teaching Assistant
           company_url: 'https://old.mipt.ru/education/chairs/math_basic_management/'
           company_logo: mipt-icon
           location: Moscow, Dolgoprudny, Russia
@@ -99,7 +99,7 @@ sections:
           description: |2-
               Head: [Roland Hildebrand](https://scholar.google.fr/citations?user=uTYg6lsAAAAJ&hl=fr)
         - title: MIPT-Yandex Fundamental Research Laboratory
-          company: Research student
+          company: Research Student
           company_url: 'https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/'
           company_logo: mipt-icon
           location: Moscow, Russia
@@ -108,7 +108,7 @@ sections:
           description: |2-
               Head: [Aleksandr Beznosikov](https://anbeznosikov.github.io/index.html)
         - title: Laboratory of Mathematical Methods of Optimization
-          company: Research student
+          company: Research Student
           company_url: 'https://labmmo.ru/en'
           company_logo: labmmo-icon
           location: Moscow, Dolgoprudny, Russia
@@ -126,7 +126,7 @@ sections:
           description: |2-
               Head: DSc [Nokhrina Elena](https://www.webofscience.com/wos/author/record/C-8240-2014)
         - title: P.N.Lebedev Physical Institute
-          company: Research physicist
+          company: Research Physicist
           company_url: 'http://old.lebedev.ru/en/'
           company_logo: phian-icon
           location: Moscow, Russia
