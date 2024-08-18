@@ -32,13 +32,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: MSc at Moscow Institute of Physics and Technology
+          company: Phystech School of Applied Mathematics and Informatics
+          company_url: 'https://old.mipt.ru/english/edu/phystechschools/psami'
+          company_logo: mipt-icon
+          date_start: '2024-09-01'
+          date_end: ''
+          description: |2-
+              * [Department of Intelligent Systems](https://intsystems.github.io/)
         - title: BSc at Moscow Institute of Physics and Technology
           company: Landau Phystech School of Physics and Research (Department of General and Applied Physics)
           company_url: 'https://landau.school/'
           company_logo: mipt-icon
           location: Moscow, Russia
           date_start: '2020-09-01'
-          date_end: ''
+          date_end: '2024-08-31'
           description: |2-
               * [Chair of Problems of Physics and Astrophysics](http://chair.lpi.ru/eng/index.html)
               * [Affiliated with Yandex chair of Data Analysis](https://mipt.ru/education/chairs/da/)
