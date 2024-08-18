@@ -117,7 +117,7 @@ sections:
           description: |2-
               Head: [Alexander Gasnikov](https://scholar.google.com/citations?user=AmeE8qkAAAAJ)
         - title: Laboratory of Fundamental and Applied Research of Relativistic Objects of the Universe
-          company: Laboratory assistant
+          company: Laboratory Assistant
           company_url: 'https://rellab.mipt.ru/en/about'
           company_logo: rellab-icon
           location: Dolgoprudny, Russia
