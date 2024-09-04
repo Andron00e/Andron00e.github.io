@@ -32,6 +32,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: MSc at École polytechnique fédérale de Lausanne
+          company: School of Computer and Commpunication Sciences (Data Science)
+          company_url: https://www.epfl.ch/education/master/programs/data-science/
+          company_logo: epfl-icon
+          location: Lausanne, Switzerland
+          date_start: '2024-09-04'
+          date_end: ''
+          description: |2-
+              * [Machine Learning and Optimization Laboratory](https://www.epfl.ch/labs/mlo/)
         - title: MSc at Moscow Institute of Physics and Technology
           company: Phystech School of Applied Mathematics and Informatics
           company_url: 'https://old.mipt.ru/english/edu/phystechschools/psami'
