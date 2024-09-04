@@ -96,7 +96,7 @@ social:
     link: mailto:semenov.andrei.v@gmail.com #'/#contact'
   - icon: envelope
     icon_pack: fas
-    link: mailto:semenov.a@phystech.edu
+    link: mailto:andrii.semenov@epfl.ch
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
