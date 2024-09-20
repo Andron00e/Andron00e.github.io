@@ -33,7 +33,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: MSc at École polytechnique fédérale de Lausanne
-          company: School of Computer and Commpunication Sciences (Data Science)
+          company: School of Computer and Communication Sciences (Data Science)
           company_url: https://www.epfl.ch/education/master/programs/data-science/
           company_logo: epfl-icon
           location: Lausanne, Switzerland
