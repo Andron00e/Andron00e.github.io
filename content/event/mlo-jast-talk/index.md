@@ -12,8 +12,8 @@ address:
   country: Switzerland
 
 summary: 1 hour oral talk on the Defense against Feature Reconstruction attacks.
-date: '2024-10-09W14:00:00Z'
-date_end: '2024-10-09W15:15:00Z'
+date: '2024-10-09T14:00:00Z'
+date_end: '2024-10-09T15:15:00Z'
 
 authors: []
 tags: []
