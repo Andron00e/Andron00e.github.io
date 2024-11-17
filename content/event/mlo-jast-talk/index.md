@@ -1,5 +1,5 @@
 ---
-title: MLO Group Meeting, "Concept Bottleneck Models"
+title: MLO Group Meeting, "Defense against Feature Reconstruction attacks"
 event: MLO Group Meeting
 event_url: https://www.epfl.ch/labs/mlo/
 

@@ -95,7 +95,7 @@ sections:
           company_logo: mipt-icon
           location: Moscow, Dolgoprudny, Russia
           date_start: '2023-01-01'
-          date_end: ''
+          date_end: '2024-08-31'
           description: |2-
               *  Reinforcement Learning [course](https://github.com/Andron00e/rl.mipt). Lecturer: [Yudin Nikita](https://labmmo.ru/en/team/yudin.html)
         - title: Huawei-MIPT research group
@@ -104,7 +104,7 @@ sections:
           company_logo: mipt-icon
           location: Moscow, Russia
           date_start: '2023-11-01'
-          date_end: ''
+          date_end: '2024-10-2'
           description: |2-
               Head: [Roland Hildebrand](https://scholar.google.fr/citations?user=uTYg6lsAAAAJ&hl=fr)
         - title: MIPT-Yandex Fundamental Research Laboratory
