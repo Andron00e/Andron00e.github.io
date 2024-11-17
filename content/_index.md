@@ -104,7 +104,7 @@ sections:
           company_logo: mipt-icon
           location: Moscow, Russia
           date_start: '2023-11-01'
-          date_end: '2024-10-2'
+          date_end: '2024-10-02'
           description: |2-
               Head: [Roland Hildebrand](https://scholar.google.fr/citations?user=uTYg6lsAAAAJ&hl=fr)
         - title: MIPT-Yandex Fundamental Research Laboratory
