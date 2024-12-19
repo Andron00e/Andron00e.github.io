@@ -89,6 +89,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Machine Learning and Optimization Laboratory, EPFL
+          company: Research Student
+          company_url: 'https://www.epfl.ch/labs/mlo/'
+          company_logo: mlo-icon
+          location: Lausanne, Switzerland
+          date_start: '2024-08-15'
+          date_end: ''
+          description: |2-
+              * Head: [Martin Jaggi](https://people.epfl.ch/martin.jaggi)
         - title: Department of Mathematical Fundamentals of Control, MIPT 
           company: Teaching Assistant
           company_url: 'https://old.mipt.ru/education/chairs/math_basic_management/'
@@ -113,7 +122,7 @@ sections:
           company_logo: mipt-icon
           location: Moscow, Russia
           date_start: '2023-07-27'
-          date_end: ''
+          date_end: '2024-09-14' # ''
           description: |2-
               Head: [Aleksandr Beznosikov](https://anbeznosikov.github.io/index.html)
         - title: Laboratory of Mathematical Methods of Optimization
@@ -122,7 +131,7 @@ sections:
           company_logo: labmmo-icon
           location: Moscow, Dolgoprudny, Russia
           date_start: '2023-07-27'
-          date_end: ''
+          date_end: '2024-09-14' # ''
           description: |2-
               Head: [Alexander Gasnikov](https://scholar.google.com/citations?user=AmeE8qkAAAAJ)
         - title: Laboratory of Fundamental and Applied Research of Relativistic Objects of the Universe

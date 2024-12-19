@@ -17,15 +17,15 @@ last_name: Semenov
 superuser: true
 
 # Role/position/tagline
-role: ML Research Scientist
+role: ML Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: MIPT-Yandex Fundamental Research Lab
-    url: https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/
+  - name:  EPFL
+    url: https://www.epfl.ch/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Natural Language Processing, Computer Vision and Stochastic Optimization.
+bio: My research interests include Large-Scale and Stochastic Optimization.
 
 # Interests to show in About widget
 #interests:
@@ -91,9 +91,9 @@ bio: My research interests include Natural Language Processing, Computer Vision 
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:semenov.andrei.v@gmail.com #'/#contact'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: mailto:semenov.andrei.v@gmail.com #'/#contact'
   - icon: envelope
     icon_pack: fas
     link: mailto:andrii.semenov@epfl.ch
@@ -105,7 +105,7 @@ social:
   #    header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=x1gpHxMAAAAJ&hl=ru
+    link: https://scholar.google.com/citations?hl=en&user=x1gpHxMAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Andron00e
@@ -123,7 +123,7 @@ social:
 highlight_name: true
 ---
 
-I am a first year Master's student at [École polytechnique fédérale de Lausanne](https://www.epfl.ch/en/), School of Computer and Communication Sciences, working in the [Machine Learning and Optimization Laboratory](https://www.epfl.ch/labs/mlo/). Additionally, I am a part of the MIPT-Yandex Fundamental Research [team](https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/). I received my BSc from [Moscow Institute of Physics and Technology](https://old.mipt.ru/english/) under the supervision of [Aleksandr Beznosikov](https://anbeznosikov.github.io/). My research interests include Federated Learning, Natural Language Processing, Computer Vision and applications of Stochastic Optimization in Deep Learning. During my school years, I participated in several International Olympiads in [astronomy](http://www.issp.ac.ru/iao/2018/), [physics and astrophysics](https://www.ioaastrophysics.org/).
+I am a first year Master's student at [École polytechnique fédérale de Lausanne](https://www.epfl.ch/en/), School of Computer and Communication Sciences, working in the [Machine Learning and Optimization Laboratory](https://www.epfl.ch/labs/mlo/). Additionally, I am a part of the MIPT-Yandex Fundamental Research [team](https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/). I received my BSc from [Moscow Institute of Physics and Technology](https://old.mipt.ru/english/) under the supervision of [Aleksandr Beznosikov](https://anbeznosikov.github.io/). My research interests include Federated Learning, Natural Language Processing and applications of Stochastic Optimization in Deep Learning. During my school years, I participated in several International Olympiads in [astronomy](http://www.issp.ac.ru/iao/2018/), [physics and astrophysics](https://www.ioaastrophysics.org/).
 
 Name:  Besides "Andrii Semenov", I sometimes use another spelling "Andrei Semenov". Both are fine.  
 {style="text-align: justify;"}
