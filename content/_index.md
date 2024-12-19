@@ -122,7 +122,7 @@ sections:
           company_logo: mipt-icon
           location: Moscow, Russia
           date_start: '2023-07-27'
-          date_end: '2024-09-14' # ''
+          date_end: '2024-10-02' # ''
           description: |2-
               Head: [Aleksandr Beznosikov](https://anbeznosikov.github.io/index.html)
         - title: Laboratory of Mathematical Methods of Optimization
@@ -131,7 +131,7 @@ sections:
           company_logo: labmmo-icon
           location: Moscow, Dolgoprudny, Russia
           date_start: '2023-07-27'
-          date_end: '2024-09-14' # ''
+          date_end: '2024-10-02' # ''
           description: |2-
               Head: [Alexander Gasnikov](https://scholar.google.com/citations?user=AmeE8qkAAAAJ)
         - title: Laboratory of Fundamental and Applied Research of Relativistic Objects of the Universe
