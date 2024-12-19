@@ -92,7 +92,7 @@ sections:
         - title: Machine Learning and Optimization Laboratory, EPFL
           company: Research Student
           company_url: 'https://www.epfl.ch/labs/mlo/'
-          company_logo: mlo-icon
+          company_logo: epfl-icon
           location: Lausanne, Switzerland
           date_start: '2024-08-15'
           date_end: ''
