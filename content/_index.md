@@ -41,14 +41,14 @@ sections:
           date_end: ''
           description: |2-
               * [Machine Learning and Optimization Laboratory](https://www.epfl.ch/labs/mlo/)
-        - title: MSc at Moscow Institute of Physics and Technology
-          company: Phystech School of Applied Mathematics and Informatics
-          company_url: 'https://old.mipt.ru/english/edu/phystechschools/psami'
-          company_logo: mipt-icon
-          date_start: '2024-09-01'
-          date_end: ''
-          description: |2-
-              * [Department of Intelligent Systems](https://intsystems.github.io/)
+        # - title: MSc at Moscow Institute of Physics and Technology
+        #   company: Phystech School of Applied Mathematics and Informatics
+        #   company_url: 'https://old.mipt.ru/english/edu/phystechschools/psami'
+        #   company_logo: mipt-icon
+        #   date_start: '2024-09-01'
+        #   date_end: ''
+        #   description: |2-
+        #       * [Department of Intelligent Systems](https://intsystems.github.io/)
         - title: BSc at Moscow Institute of Physics and Technology
           company: Landau Phystech School of Physics and Research (Department of General and Applied Physics)
           company_url: 'https://landau.school/'
