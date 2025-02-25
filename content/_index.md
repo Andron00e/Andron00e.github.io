@@ -90,14 +90,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Machine Learning Department, MBZUAI
-        company: Visiting Researcher
-        company_url: 'https://mbzuai.ac.ae/research-department/machine-learning-department/'
-        company_logo: mbzuai-icon
-        location: Abu Dhabi, United Arab Emirates
-        date_start: '2025-02-15'
-        date_end: ''
-        description: |2-
-          * Head: [Martin Takáč](https://mtakac.com/About_me/)
+          company: Visiting Researcher
+          company_url: 'https://mbzuai.ac.ae/research-department/machine-learning-department/'
+          company_logo: mbzuai-icon
+          location: Abu Dhabi, United Arab Emirates
+          date_start: '2025-02-15'
+          date_end: ''
+          description: |2-
+            * Head: [Martin Takáč](https://mtakac.com/About_me/)
         - title: Machine Learning and Optimization Laboratory, EPFL
           company: Research Student
           company_url: 'https://www.epfl.ch/labs/mlo/'
