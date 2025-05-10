@@ -112,7 +112,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/semenov-andrei-v/
-  - icon: x-twitter
+  - icon: twitter
     icon_pack: fab
     link: https://x.com/AndreiSemenov17
   # Link to a PDF of your resume/CV.
