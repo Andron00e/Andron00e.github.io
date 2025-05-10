@@ -90,7 +90,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Machine Learning and Optimization Laboratory, EPFL
-          company: Research Student
+          company: Research Assistant
           company_url: 'https://www.epfl.ch/labs/mlo/'
           company_logo: epfl-icon
           location: Lausanne, Switzerland
@@ -327,7 +327,7 @@ sections:
         - title: Reinforcement Learning at MIPT
           company: Teaching Assistant
           company_logo: mipt-icon
-          location: Remotely
+          location: Moscow, Dolgoprudny, Russia
           date_start: '2024-02-07'
           date_end: '2024-06-10'
     design:

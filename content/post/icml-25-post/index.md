@@ -1,5 +1,5 @@
 ---
-title:  'ICML: 1 accepted paper'
+title:  'ICML, 1 accepted paper'
 date: '2025-05-01'
 summary:
 

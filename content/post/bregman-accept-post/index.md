@@ -1,5 +1,5 @@
 ---
-title:  ICOMP 1 accepted paper (with Oral Presentation)
+title:  ICOMP, 1 accepted paper (with Oral Presentation)
 date: '2024-09-16'
 summary:
 
