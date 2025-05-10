@@ -89,15 +89,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Machine Learning Department, MBZUAI
-          company: Visiting Researcher
-          company_url: 'https://mbzuai.ac.ae/research-department/machine-learning-department/'
-          company_logo: mbzuai-icon
-          location: Abu Dhabi, United Arab Emirates
-          date_start: '2025-02-15'
-          date_end: ''
-          description: |2-
-            * Head: [Martin Takáč](https://mtakac.com/About_me/)
         - title: Machine Learning and Optimization Laboratory, EPFL
           company: Research Student
           company_url: 'https://www.epfl.ch/labs/mlo/'
@@ -107,15 +98,24 @@ sections:
           date_end: ''
           description: |2-
               * Head: [Martin Jaggi](https://people.epfl.ch/martin.jaggi)
-        - title: Department of Mathematical Fundamentals of Control, MIPT 
-          company: Teaching Assistant
-          company_url: 'https://old.mipt.ru/education/chairs/math_basic_management/'
-          company_logo: mipt-icon
-          location: Moscow, Dolgoprudny, Russia
-          date_start: '2023-01-01'
-          date_end: '2024-08-31'
+        - title: Machine Learning Department, MBZUAI
+          company: Visiting Researcher
+          company_url: 'https://mbzuai.ac.ae/research-department/machine-learning-department/'
+          company_logo: mbzuai-icon
+          location: Abu Dhabi, United Arab Emirates
+          date_start: '2025-02-15'
+          date_end: '2025-04-15'
           description: |2-
-              *  Reinforcement Learning [course](https://github.com/Andron00e/rl.mipt). Lecturer: [Yudin Nikita](https://labmmo.ru/en/team/yudin.html)
+            * Head: [Martin Takáč](https://mtakac.com/About_me/)
+        # - title: Department of Mathematical Fundamentals of Control, MIPT 
+        #   company: Teaching Assistant
+        #   company_url: 'https://old.mipt.ru/education/chairs/math_basic_management/'
+        #   company_logo: mipt-icon
+        #   location: Moscow, Dolgoprudny, Russia
+        #   date_start: '2023-01-01'
+        #   date_end: '2024-08-31'
+        #   description: |2-
+        #       *  Reinforcement Learning [course](https://github.com/Andron00e/rl.mipt). Lecturer: [Yudin Nikita](https://labmmo.ru/en/team/yudin.html)
         - title: Huawei-MIPT research group
           company: Deep Learning Engineer
           company_url: ''
@@ -306,6 +306,32 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: experience
+    id: experience # ADDED BY ME
+    content:
+      title: Teaching
+      date_format: Jan 2006
+      items:
+        - title: Stochastic Analysis at MIPT
+          company: Teaching Assistant
+          company_logo: mipt-icon
+          location: Remotely
+          date_start: '2025-02-10'
+          date_end: '2025-05-01'
+        -title: Machine Learning at MIPT
+          company: Teaching Assistant
+          company_logo: mipt-icon
+          location: Remotely
+          date_start: '2024-09-10'
+          date_end: '2025-01-20'
+        -title: Reinforcement Learning at MIPT
+          company: Teaching Assistant
+          company_logo: mipt-icon
+          location: Remotely
+          date_start: '2024-02-07'
+          date_end: '2024-06-10'
+    design:
+      columns: '1' #'2'
 #  - block: contact
 #    id: contact
 #    content:

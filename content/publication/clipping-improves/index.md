@@ -1,5 +1,5 @@
 ---
-title: 'Gradient Clipping Improves AdaGrad when the Noise Is Heavy-Tailed'
+title: 'Clipping Improves Adam-Norm and AdaGrad-Norm when the Noise Is Heavy-Tailed'
 authors:
 - Savelii Chezhegov
 - Yaroslav Klyukin
