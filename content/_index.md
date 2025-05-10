@@ -318,13 +318,13 @@ sections:
           location: Remotely
           date_start: '2025-02-10'
           date_end: '2025-05-01'
-        -title: Machine Learning at MIPT
+        - title: Machine Learning at MIPT
           company: Teaching Assistant
           company_logo: mipt-icon
           location: Remotely
           date_start: '2024-09-10'
           date_end: '2025-01-20'
-        -title: Reinforcement Learning at MIPT
+        - title: Reinforcement Learning at MIPT
           company: Teaching Assistant
           company_logo: mipt-icon
           location: Remotely
