@@ -71,9 +71,6 @@ sections:
           description: |2-
               * International Olympiads prize-winner
               * National Olympiads prize-winner
-              * "[All-Ukrainian mathematical fights](https://matholymp.com.ua/)" tournament contestant
-              * "[Young physicists tournament](https://www.iypt.org/)" team member
-              * First "[Astronomy Battles](https://www.astrosandbox.com/mainenglish)" tournament team member
     design:
       columns: '1'
   - block: experience
