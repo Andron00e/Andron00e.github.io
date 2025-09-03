@@ -7,7 +7,7 @@ date: '2023-07-10'
 date_end: '2023-07-20'
 
 links:
-- name: HuggingFace
+- name: Hugging Face
   url: https://huggingface.co/Andron00e/YetAnother_Open-Llama-3B-LoRA-OpenOrca
 url_code: 'https://github.com/Andron00e/Llama-LoRA-project'
 ---
