@@ -203,7 +203,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Posts & News
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -264,7 +264,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent Talks #Recent & Upcoming Talks
+      title: Talks #Recent & Upcoming Talks
       filters:
         folders:
           - event
