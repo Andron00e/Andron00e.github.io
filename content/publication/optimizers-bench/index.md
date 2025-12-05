@@ -16,5 +16,7 @@ url_pdf: 'https://arxiv.org/pdf/2509.01440'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2509.01440
+- name: EurIPS 2025
+  url: uploads/llm-optimizer-benchmark-eurips25.pdf
 url_code: 'https://github.com/epfml/llm-optimizer-benchmark'
 ---
