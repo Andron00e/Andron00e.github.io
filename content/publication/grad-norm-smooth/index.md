@@ -16,5 +16,7 @@ url_pdf: 'https://arxiv.org/pdf/2506.13710'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2506.13710
+- name: ICLR 2026
+  url: uploads/grad-norm-smooth-iclr26.pdf
 url_code: 'https://github.com/epfml/grad-norm-smooth'
 ---
