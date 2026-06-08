@@ -7,7 +7,7 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2509.14233
 - name: Technical Report
-  url: https://github.com/swiss-ai/apertus-tech-report/blob/main/Apertus_Tech_Report.pdf
+  url: https://github.com/swiss-ai/apertus-tech-report
 - name: Hugging Face
   url: https://huggingface.co/collections/swiss-ai/apertus-llm-68b699e65415c231ace3b059
 - name: Swiss AI

@@ -1,0 +1,6 @@
+name = "Andron"
+google_fonts = "family=Lexend:wght@400;500;700&family=JetBrains+Mono"
+heading_font = "Lexend"
+body_font = "Lexend"
+nav_font = "Lexend"
+mono_font = "JetBrains Mono"

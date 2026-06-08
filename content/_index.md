@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Bio
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   #- block: skills
@@ -304,7 +304,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: experience
-    id: experience # ADDED BY ME
+    id: teaching
     content:
       title: Teaching
       date_format: Jan 2006

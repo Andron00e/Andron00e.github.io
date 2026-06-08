@@ -1,0 +1,35 @@
+.experience .m-2 .border,
+.experience .col.border-right {
+  border-color: #34A853 !important;
+}
+.experience .m-2 .border.exp-fill {
+  background-color: #34A853 !important;
+}
+
+.dark .experience .m-2 .border,
+.dark .experience .col.border-right {
+  border-color: #81C784 !important;
+}
+.dark .experience .m-2 .border.exp-fill {
+  background-color: #81C784 !important;
+}
+
+a.btn-page-header {
+  color: #EA4335 !important;
+  border-color: #EA4335 !important;
+}
+a.btn-page-header:hover {
+  color: #fff !important;
+  background-color: #EA4335 !important;
+  border-color: #EA4335 !important;
+}
+
+.dark a.btn-page-header {
+  color: #f28b82 !important;
+  border-color: #f28b82 !important;
+}
+.dark a.btn-page-header:hover {
+  color: #202124 !important;
+  background-color: #f28b82 !important;
+  border-color: #f28b82 !important;
+}
