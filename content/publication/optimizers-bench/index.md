@@ -18,5 +18,7 @@ links:
   url: https://arxiv.org/abs/2509.01440
 - name: EurIPS 2025
   url: uploads/llm-optimizer-benchmark-eurips25.pdf
+- name: Wandb Logs
+  url: 'https://wandb.ai/semenov-andrei-v/llm-optimizer-benchmark/reports/Benchmarking-Optimizers-for-Large-Language-Model-Pretraining--VmlldzoxNDc1NDM0Ng'
 url_code: 'https://github.com/epfml/llm-optimizer-benchmark'
 ---

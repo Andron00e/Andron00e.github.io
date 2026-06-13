@@ -15,8 +15,14 @@ summary: 1.5 hour oral talk on Model and Data Reconstruction attacks in Horizont
 date: '2024-03-26T19:00:00Z'
 date_end: '2024-03-26T20:30:00Z'
 
-authors: []
-tags: []
+authors: 
+  - Andrei Semenov
+  - Alexander Pichugin
+tags: 
+  - privacy
+  - optimization
+  - federated learning
+  - information theory
 
 #featured: false
 

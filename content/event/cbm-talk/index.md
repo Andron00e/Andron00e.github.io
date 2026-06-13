@@ -16,7 +16,10 @@ date: '2024-03-12T19:00:00Z'
 date_end: '2024-03-12T20:30:00Z'
 
 authors: []
-tags: []
+tags:
+  - computer vision
+  - interpretability
+  - concept bottleneck models
 
 #featured: false
 

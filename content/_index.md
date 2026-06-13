@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.biography
+  - block: biography
     id: about
     content:
       title: Bio
@@ -51,16 +51,16 @@ sections:
         #       * [Department of Intelligent Systems](https://intsystems.github.io/)
         - title: BSc at Moscow Institute of Physics and Technology
           company: Landau Phystech School of Physics and Research (Department of General and Applied Physics)
-          company_url: 'https://landau.school/'
+          company_url: 'https://mipt.ru/education/schools/lfi'
           company_logo: mipt-icon
           location: Moscow, Russia
           date_start: '2020-09-01'
           date_end: '2024-08-31'
           description: |2-
               * [Chair of Problems of Physics and Astrophysics](http://chair.lpi.ru/eng/index.html)
-              * [Affiliated with Yandex chair of Data Analysis](https://mipt.ru/education/chairs/da/)
+              * [Affiliated with Yandex chair of Data Analysis](https://mipt.ru/education/basic-departments/kafedra-analiza-dannykh)
               * Advisor: [Aleksandr Beznosikov](https://scholar.google.com/citations?user=hVVJR-sAAAAJ&hl=en)
-              * Thesis (in Russian): [Contrastive Learning for Enhancement of Model Interpretability in Computer Vision](https://github.com/Andron00e/Andron00e.github.io/blob/main/static/uploads/BSc_Thesis.pdf)
+              * Thesis (in Russian): [Contrastive Learning for Enhancement of Model Interpretability in Computer Vision](https://andron00e.github.io/uploads/BSc_Thesis.pdf)
         - title: Ukrainian Physics and Mathematics Lyceum 
           company: Boarding school with the advanced study of Mathematics, Computer Science and Physics
           company_url: 'http://upml.knu.ua/'
@@ -86,6 +86,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Google DeepMind
+          company: Student Researcher
+          company_url: 'https://deepmind.google/'
+          company_logo: deepmind-icon
+          location: Zurich, Switzerland
+          date_start: '2026-06-15'
+          date_end: ''
+          description: |2-
+              * **Gemini** post-train
         - title: Machine Learning and Optimization Laboratory, EPFL
           company: Research Assistant
           company_url: 'https://www.epfl.ch/labs/mlo/'
@@ -124,13 +133,13 @@ sections:
               Head: [Roland Hildebrand](https://scholar.google.fr/citations?user=uTYg6lsAAAAJ&hl=fr)
         - title: MIPT-Yandex Fundamental Research Laboratory
           company: Research Student
-          company_url: 'https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/'
+          company_url: 'https://research.yandex.com/' #'https://old.mipt.ru/science/labs/laboratory-of-fundamental-research-mipt-yandex/about/'
           company_logo: mipt-icon
           location: Moscow, Russia
           date_start: '2023-07-27'
           date_end: '2024-10-02' # ''
           description: |2-
-              Head: [Aleksandr Beznosikov](https://anbeznosikov.github.io/index.html)
+              Head: [Aleksandr Beznosikov](https://scholar.google.com/citations?user=hVVJR-sAAAAJ&hl=en)
         - title: Laboratory of Mathematical Methods of Optimization
           company: Research Student
           company_url: 'https://labmmo.ru/en'
@@ -151,7 +160,7 @@ sections:
               Head: DSc [Nokhrina Elena](https://www.webofscience.com/wos/author/record/C-8240-2014)
         - title: P.N.Lebedev Physical Institute
           company: Research Physicist
-          company_url: 'http://old.lebedev.ru/en/'
+          company_url: 'https://lebedev.ru/en/institute.html'
           company_logo: phian-icon
           location: Moscow, Russia
           date_start: '2022-11-12'

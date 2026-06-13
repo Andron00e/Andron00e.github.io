@@ -16,7 +16,12 @@ date: '2024-10-09T14:00:00Z'
 date_end: '2024-10-09T15:15:00Z'
 
 authors: []
-tags: []
+tags: 
+  - privacy
+  - optimization
+  - federated learning
+  - split learning
+  - computer vision
 
 #featured: false
 

@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: andron
-  theme_night: andron
+  # theme_night: andron
   font: andron
   font_size: L
 
